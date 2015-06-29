@@ -1,8 +1,10 @@
 ---
 published: true
-title: Hello world
+title: About Me
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/Jrjungemann/Jrjungemann.github.io](http://github.com/Jrjungemann/Jrjungemann.github.io). Be nice. Give credit. Share, don't steal :)
+I am an ambitious developer writing and designing applications for Apple’s platforms! 
 
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+Currently on a journey to become a full-time iOS developer.
+
+I started my path in iOS Development through Bloc. If you would like to try out their course feel free to use my referral [link](https://www.bloc.io/?ref_token=MjE0NDM0Mg) :)
