@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Jrjungemann.github.io
+title: Jon Jungemann
+email: jrjungemann@gmail.com
+author: Jon Jungemann
+description: My personal portfolio and blog
+paginate: 5
+google_analytics: 
